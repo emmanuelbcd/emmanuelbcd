@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @emmanuelbcd
-- 🌱 I’m currently learning web development.
+- 🌱 I’m currently web developer.
 
 <!---
 emmanuelbcd/emmanuelbcd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
