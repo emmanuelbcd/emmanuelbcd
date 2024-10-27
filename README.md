@@ -3,7 +3,7 @@
 
 <!-- Title -->
 <h1 align="center">Hi 👋, I'm Emmanuel Blanchard. <br>
-A passionate frontend developer from France/h1>
+A passionate frontend developer from France</h1>
 
 <!-- Technos -->
 <h2 align="center">Languages and Tools 🛠</h2>
