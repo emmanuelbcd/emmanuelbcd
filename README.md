@@ -37,7 +37,7 @@ A passionate frontend developer from France</h1>
 <h3 align="center">CMS</h3>
 <p align="center">
   <a href="https://wordpress.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="40" height="40"/> </a>
-	<a href="https://woocommerce.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/woocommerce/woocommerce-plain-wordmark.svg" alt="woocommerce" width="40" height="40"/> </a></p>
+</p>
 
 
 <h2 align="center">How to get in touch ?</h2>
