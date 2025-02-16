@@ -43,5 +43,5 @@ A passionate frontend developer from France</h1>
 <h2 align="center">How to get in touch ?</h2>
 <h3 align="center">If you need to contact me 👇</h3>
 <p align="center">
-<a href="https://linkedin.com/in/emmanuelblanchard-fr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanuelblanchard-fr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/emmanuel-blanchard-developpeur/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanuelblanchard-fr" height="30" width="40" /></a>
 </p>
